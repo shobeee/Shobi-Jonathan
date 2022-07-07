@@ -1,40 +1,54 @@
 #title {
     text-align: center;
-
-}
-
-body {
-    text-align: center;
-    background-color: black;
-    text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 43%;
 }
 
 #survey-form {
     text-align: center;
-    width: 460px;
+    width: 40%;
     background-color: grey;
-    margin: 20px;
+    margin: auto;
     padding: 20px;
     border-color: aqua;
     border-radius: 10px;
+
+}
+
+p {
+    text-align: center;
 }
 
 Label {
     color:#388080;
-    width: 500px;
     background-color:#eceff1; 
+    width: 25%;
+    padding: 4px;
+    margin: 10px;
     
 }
 
-h1 {
+#name, #email, #number{
+    width: 60%;
+}
+
+#submit{
+    width: 60%;
+    background-color: #388080;
     color: white;
+    border-color:#388080;
+    border-radius: 10px;
+}
+
+#dropdown{
+    width: 60%;
 }
 
 input {
     margin-left: auto;
     margin: 10px;
+    
+}
+
+textarea{
+    width: 80%;
+    height: 80px;
 }
