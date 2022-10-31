@@ -2,6 +2,6 @@
 
 A project done in microverse trails by 
 
-- GitHub: [@@Shobeee](https://github.com/shobeee)
+- GitHub: [@Shobeee](https://github.com/shobeee)
 
 for reviewing
